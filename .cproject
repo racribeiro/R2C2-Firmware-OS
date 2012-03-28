@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="org.eclipse.cdt.core.default.config.1758903934">
+			<storageModule buildSystemId="org.eclipse.cdt.core.defaultConfigDataProvider" id="org.eclipse.cdt.core.default.config.1758903934" moduleId="org.eclipse.cdt.core.settings" name="Configuration">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings">
+				<externalSettings containerId="org.coocox.ExternalSettings" factoryId="org.eclipse.cdt.core.extension.container.factory">
+					<externalSetting>
+						<entry flags="" kind="includePath" name="C:\CooCox\CoIDE\gcc\arm-none-eabi\include"/>
+						<entry flags="" kind="includePath" name="."/>
+						<entry flags="" kind="includePath" name="CoOS"/>
+						<entry flags="" kind="includePath" name="CoOS/kernel"/>
+						<entry flags="" kind="includePath" name="CoOS/portable"/>
+						<entry flags="" kind="includePath" name="libraries"/>
+						<entry flags="" kind="includePath" name="libraries/CMSIS/inc"/>
+						<entry flags="" kind="includePath" name="libraries/FatFs/inc"/>
+						<entry flags="" kind="includePath" name="libraries/grbl/inc"/>
+						<entry flags="" kind="includePath" name="libraries/iLib/inc"/>
+						<entry flags="" kind="includePath" name="libraries/LPCUSB/inc"/>
+						<entry flags="" kind="includePath" name="libraries/LWIP/src/include"/>
+						<entry flags="" kind="includePath" name="libraries/Mendel/inc"/>
+						<entry flags="" kind="includePath" name="libraries/NXP/Drivers/include"/>
+						<entry flags="" kind="includePath" name="libraries/R2C2/inc"/>
+						<entry flags="" kind="includePath" name="semihosting"/>
+						<entry flags="" kind="macro" name="__GNUC__" value=""/>
+						<entry flags="" kind="macro" name="M3" value=""/>
+					</externalSetting>
+				</externalSettings>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.language.mapping"/>
+			<storageModule moduleId="org.eclipse.cdt.internal.ui.text.commentOwnerProjectMappings"/>
+			<storageModule moduleId="org.eclipse.cdt.core.pathentry">
+				<pathentry kind="src" path=""/>
+				<pathentry include="C:/CooCox/CoIDE/gcc/arm-none-eabi/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/CoOS" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/CoOS/kernel" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/CoOS/portable" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/CMSIS/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/FatFs/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/grbl/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/iLib/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/LPCUSB/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/LWIP/src/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/Mendel/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/NXP/Drivers/include" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/libraries/R2C2/inc" kind="inc" path="" system="true"/>
+				<pathentry include="C:/CooCox/CoIDE/workspace/R2C2 Reprap/semihosting" kind="inc" path="" system="true"/>
+				<pathentry kind="mac" name="__GNUC__" path="" value=""/>
+				<pathentry kind="mac" name="M3" path="" value=""/>
+				<pathentry kind="out" path=""/>
+			</storageModule>
+		</cconfiguration>
+	</storageModule>
+</cproject>
